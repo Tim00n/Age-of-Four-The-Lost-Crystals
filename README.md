@@ -1,4 +1,4 @@
-# Age-of-Four-The-Lost-Crystals
+# Age of Four: The Lost Crystals
 An HD 2d RPG game I'm working on during my free time. Solo project so far.
 ![Freia 2024-08-15-21-55](https://github.com/user-attachments/assets/bd09eaa7-0952-4821-bd14-4de85fe3a1f6)
 
